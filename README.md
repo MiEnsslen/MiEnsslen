@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ... well, I will write later on ab out that.
 - 📫 How to reach me ...
-- 😄 Pronouns: ... don't even know, what pronouns are.
+- 😄 Pronouns: ... don't even know, what pronouns are. Ah, o.k., I prefer he etc.
 - ⚡ Fun fact: At the moment I don't know, how Github works, but I will find out.
 
 <!---
